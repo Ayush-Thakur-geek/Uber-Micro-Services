@@ -6,3 +6,4 @@
 - [Uber Reviews Service](https://github.com/Ayush-Thakur-geek/Uber-Reviews-Service)
 - [Uber Auth Service](https://github.com/Ayush-Thakur-geek/Uber-Auth-Service)
 - [Client Socket Service](https://github.com/Ayush-Thakur-geek/Client-Socket-Service)
+- [Uber K8](https://github.com/Ayush-Thakur-geek/Uber-k8s/tree/master/deployments)
